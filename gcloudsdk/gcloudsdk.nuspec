@@ -7,11 +7,12 @@
     <id>gcloudsdk</id>
     <version>0.0.0.20170420</version>
     <packageSourceUrl>https://github.com/gpoul/chocolatey-packages</packageSourceUrl>
-    <owners>Gerhard Poul</owners>
+    <owners>gpoul</owners>
     <title>Google Cloud SDK (Install)</title>
     <authors>Google</authors>
     <projectUrl>https://cloud.google.com/sdk/</projectUrl>
-    <tags>google cloud cli gcloud sdk</tags>
+    <docsUrl>https://cloud.google.com/sdk/docs</docsUrl>
+    <tags>google cloud cli gcloud sdk admin</tags>
     <summary>SDK for Google Cloud</summary>
     <description>This downloads the installer from Google that then fetches the latest version of the SDK and installs it for all users in the default installation path. Updates can be performed through the gcloud cli.</description>
   </metadata>
