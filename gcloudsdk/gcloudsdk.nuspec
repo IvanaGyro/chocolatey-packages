@@ -14,7 +14,7 @@
     <docsUrl>https://cloud.google.com/sdk/docs</docsUrl>
     <tags>google cloud cli gcloud sdk admin</tags>
     <summary>SDK for Google Cloud</summary>
-    <description>This downloads the installer from Google that then fetches the latest version of the SDK and installs it for all users in the default installation path. Updates can be performed through the gcloud cli.</description>
+    <description>This package always installs the latest version of the Google Cloud SDK from Google. It first retrieves the most current installer, which then fetches the latest version of the SDK and installs it for all users in the default installation path. Updates can be performed through the gcloud cli.</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
