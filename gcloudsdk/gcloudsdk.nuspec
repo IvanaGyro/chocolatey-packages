@@ -5,7 +5,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>gcloudsdk</id>
-    <version>0.0.0.20170420</version>
+    <version>0.0.0.20171229</version>
     <packageSourceUrl>https://github.com/gpoul/chocolatey-packages</packageSourceUrl>
     <owners>gpoul</owners>
     <title>Google Cloud SDK (Install)</title>
