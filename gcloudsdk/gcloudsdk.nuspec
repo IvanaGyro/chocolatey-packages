@@ -21,9 +21,9 @@ The Google Cloud SDK is a set of tools for Google Cloud Platform. It contains gc
 This package always installs the latest version of the Google Cloud SDK from Google. It first retrieves the most current installer, which then fetches the latest version of the SDK and installs it for all users in the default installation path. Updates can be performed through the gcloud cli.
     </description>
      <dependencies>
-+      <dependency id="python3" />
-+      <dependency id="chocolatey-core.extension" version="1.1.0" />
-+    </dependencies>
+       <dependency id="python3" />
+       <dependency id="chocolatey-core.extension" version="1.1.0" />
+     </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
