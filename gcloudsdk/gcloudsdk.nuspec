@@ -6,7 +6,7 @@
   <metadata>
     <id>gcloudsdk</id>
     <!-- Use the signing time of the executable file as the version. -->
-    <version>0.0.0.20201022</version>
+    <version>0.0.0.20205027</version>
     <packageSourceUrl>https://github.com/gpoul/chocolatey-packages</packageSourceUrl>
     <owners>gpoul</owners>
     <title>Google Cloud SDK (Install)</title>
