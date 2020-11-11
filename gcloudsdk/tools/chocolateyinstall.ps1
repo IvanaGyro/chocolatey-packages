@@ -1,4 +1,5 @@
-﻿$ErrorActionPreference = 'Stop';
+﻿# Required dependency: Python 3.x
+$ErrorActionPreference = 'Stop';
 
 $packageName= 'gcloudsdk'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
