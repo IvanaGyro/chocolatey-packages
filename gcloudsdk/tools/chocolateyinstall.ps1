@@ -13,7 +13,7 @@ $packageArgs = @{
 
   softwareName  = 'gcloudsdk*'
 
-  checksum      = 'F4FC17452FC89CDEFCF75B66848C949AE0B9DCDFA203EB4F45C9B1E046F4658D'
+  checksum      = '0055AB2C26082CA69DBF1CA8E92CE03869D9992B7A44DB9FF201F96D1999F8F4'
   checksumType  = 'sha256'
 
   silentArgs    = "/S /allusers"
